@@ -24,8 +24,8 @@
 // @include      https://www.amazon.sa/*
 // @include      https://www.amazon.se/*
 // @include      https://www.amazon.sg/*
-// @downloadURL  https://raw.githubusercontent.com/r7kamura/amazon_url_shortener_script/main/amazon_url_shortener.user.js
-// @updateURL    https://raw.githubusercontent.com/r7kamura/amazon_url_shortener_script/main/amazon_url_shortener.user.js
+// @downloadURL  https://github.com/r7kamura/amazon_url_shortener_user_script/raw/main/amazon_url_shortener.user.js
+// @updateURL    https://github.com/r7kamura/amazon_url_shortener_user_script/raw/main/amazon_url_shortener.user.js
 // @supportURL   https://github.com/r7kamura/amazon_url_shortener_user_script/issues
 // ==/UserScript==
 
