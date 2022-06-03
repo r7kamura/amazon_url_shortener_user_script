@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Amazon URL Shortener
 // @namespace    https://github.com/r7kamura/amazon_url_shortener_user_script
-// @version      0.0.1
+// @version      0.1.0
 // @description  Automatically shorten Amazon product URL.
 // @author       r7kamura
 // @include      https://smile.amazon.com/*
